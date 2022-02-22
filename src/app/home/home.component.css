@@ -1,0 +1,13 @@
+
+  .form-check-inline {
+    display: inline-block!important;
+    margin-right: 1rem!important;
+}
+.demo-full-width{
+  width:100%
+}
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
